@@ -1,4 +1,4 @@
-# Lexsus Security Matrix v9.0
+# Lexsus v9.0
 
 ![Banner](assets/banner.png)
 
@@ -15,6 +15,6 @@ Advanced Web Vulnerability Scanner with:
 
 ## Instalasi
 ```bash
-git clone https://github.com/kitoxl/lexsus-security-matrix.git
-cd lexsus-security-matrix
+git clone https://github.com/kitoxl/lexsus.git
+cd lexsus
 pip install -r requirements.txt
