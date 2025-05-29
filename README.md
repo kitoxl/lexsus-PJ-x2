@@ -1,3 +1,8 @@
+echo "# Lexsus Security Matrix" > README.md
+echo "Advanced Web Vulnerability Scanner" >> README.md
+echo "## Cara Penggunaan" >> README.md
+echo "python lexsus.py http://target.com" >> README.md
+
 # Lexsus v9.0
 
 ![Banner](assets/banner.png)
