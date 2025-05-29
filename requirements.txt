@@ -1,0 +1,3 @@
+echo "requests==2.31.0" > requirements.txt
+echo "beautifulsoup4==4.12.3" >> requirements.txt
+echo "colorama==0.4.6" >> requirements.txt
